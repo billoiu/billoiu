@@ -32,6 +32,6 @@
             "value": "https://raw.githubusercontent.com/ufyurer/heromoer/main/etc/StoreFiles"
         }
     },
-    "repository": "https://github.com/billoiu/billoiu",
+    "repository": "https://github.com/billoiu",
     "stack": "container"
 }
